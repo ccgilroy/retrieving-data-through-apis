@@ -84,8 +84,18 @@ acs_url <- "https://api.census.gov/data/2015/acs5"
 #' 
 #' all variables: https://api.census.gov/data/2015/acs5/variables.html
 #' 
+#' ## Using the documentation
+#' 
+#' What syntax do I use to make a request? 
+#' 
+#' For the Census API, we request variables through the `get` field. 
+#' We specify different geographies with the `for` or `in` field, 
+#' using `*` to get all locations of a particular type. 
+#' 
+#' What is the information I want called?
+#' 
 #' For total population, the estimate is a variable named `B01003_001E`, and
-#' the margin of error is `B01003_001M`. 
+#' the margin of error is `B01003_001M`. We also want the `NAME` of each place.
 #' 
 
 #' ## Constructing a query 
