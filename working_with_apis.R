@@ -339,9 +339,14 @@ za_plot
 #' Request population indicators for three other countries from the 
 #' World Bank API and plot their population change over time.
 #' 
+#' Use two-digit country codes for countries: 
+#' https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
+#' 
 
 
 
+#' ## Exercises
+#'
 #' **Challenge exercise:** 
 #' Check out this list of APIs for social science maintained by Chris Bail: 
 #' 
