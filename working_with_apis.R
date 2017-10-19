@@ -332,6 +332,9 @@ za_plot
 #' 
 #' url: https://api.census.gov/data/2016/acs/acs1
 #' 
+#' Be sure to look at the 1-year ACS documentation on 
+#' https://www.census.gov/developers/ rather than the 5-year documentation.   
+#' 
 
 
 
@@ -354,7 +357,8 @@ za_plot
 #' 
 #' Sign up for one that looks interesting and request a piece of data from it. 
 #' Try to figure out how to get that data into an R-friendly format like a 
-#' data frame. 
+#' data frame, and display some of it. Why might the data be of interest to
+#' demographers?
 #' 
 
 
