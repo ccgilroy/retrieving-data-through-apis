@@ -7,7 +7,8 @@ the `httr` package. It uses two examples of accessing conventional data
 sources through the web, the US Census and the World Bank. 
 
 The activities in this module will set you up to better understand how to 
-access social media data in subsequent modules, and it will facilitate making comparisons between the different sources of data.
+access social media data in subsequent modules, and it will facilitate making
+comparisons between the different sources of data.
 
 ## Using this module
 
