@@ -90,7 +90,7 @@ write_file(r_body, "200.jpg")
 census_api_key <- read_lines("census_api_key.txt")
 
 #' This is the base url for the 2015 5-year American Community Survey: 
-acs_url <- "https://api.census.gov/data/2015/acs5"
+acs_url <- "https://api.census.gov/data/2015/acs/acs5"
 
 #' ## Documentation
 #' 

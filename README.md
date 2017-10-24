@@ -1,4 +1,4 @@
-# Retrieving data from APIs
+# Retrieving data through APIs
 
 Connor Gilroy, University of Washington
 
