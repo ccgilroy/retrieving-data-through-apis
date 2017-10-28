@@ -9,6 +9,8 @@
 #'     # fig_caption: false
 #'     highlight: pygments
 #'     df_print: kable
+#' header-includes:
+#'   - \setmonofont[Mapping=]{Fira Mono}
 #' ---
 
 #' ## Defining and demystifying APIs
